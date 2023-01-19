@@ -1,0 +1,19 @@
+.abertura{
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: red;
+    text-align: center;
+}
+.conteudo{
+    margin: 30px auto;
+    max-width: 90vw;
+    height: 100vh;
+    background-color: purple;
+}
+.card{
+    width: 25vw;
+    margin: 1vh 1.25vw;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
