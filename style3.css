@@ -1,0 +1,90 @@
+
+
+.titulo{
+    max-width: 90%;
+    margin: 0 auto;
+    background-color: seagreen;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+.nome{
+    height: 20px;
+    width: 190px;
+    padding: 15px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    float: left;
+    background-color: powderblue;
+}
+.curso{
+    height: 20px;
+    width: 190px;
+    padding: 15px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    float: right;
+    background-color: powderblue;
+}
+
+.dataNasc{
+    height: 20px;
+    width: 190px;
+    padding: 15px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    float: left;
+    background-color: powderblue;
+}
+.ultAtu{
+    height: 20px;
+    width: 190px;
+    padding: 15px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    float: right;
+    background-color: powderblue;
+}
+
+.Rotina{
+    height: 230px;
+    width: 150px;
+    padding: 20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    float: left;
+    background-color: slateblue;
+
+}
+
+.Hobbies{
+    height: 230px;
+    width: 150px;
+    padding: 20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    float: right;
+    background-color: greenyellow;
+ 
+}
+
+.Bandas{
+    height: 230px;
+    width: 150px;
+    padding: 20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    float: left;
+    background-color: greenyellow;
+
+}
+
+.Viagens{
+    height: 230px;
+    width: 150px;
+    padding: 20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    float: right;
+    background-color: slateblue;
+}
